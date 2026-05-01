@@ -106,9 +106,9 @@ java -version
 
 3. **Run the application**
    ```bash
-   java BookingApp
+   java User
    ```
-   *(Replace `BookingApp` with whichever class contains your `main` method)*
+   *(Replace `User` with whichever class contains your `main` method)*
 
 ---
 
