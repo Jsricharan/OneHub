@@ -95,7 +95,7 @@ java -version
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/OneHub.git
+   git clone https://github.com/Jsricharan/OneHub.git
    cd OneHub
    ```
 
